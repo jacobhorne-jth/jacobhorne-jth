@@ -9,6 +9,14 @@ I like building where models meet systems: inference, evaluation, data pipelines
 [**Google Scholar**](https://scholar.google.com/citations?user=_kLSc5MAAAAJ&hl=en) ·
 [**Resume**](https://drive.google.com/file/d/1qbPancMs_XIZ7ypaaIDozruJodhWohUB/view?usp=sharing)
 
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacobhorne-jth&theme=github_dark" width="100%" />
+</p>
+
+
+
 ## What I'm working on
 
 - 🏜️ **Sandia National Laboratories** — building full-stack applications and backend services that make AI research accessible through user-facing tools
