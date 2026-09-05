@@ -4,7 +4,7 @@ CS @ **UC Irvine** working across **ML systems, AI research, and software engine
 
 I like building where models meet systems: inference, evaluation, data pipelines, agents, and the infrastructure that makes AI useful beyond a demo. My work has ranged from production recommendation systems over hundreds of millions of records to LLM confidence research, scientific ML, robotics, and low-level GPU programming.
 
-[**Portfolio**](https://jacobhorne-jth.github.io) ·
+[**Portfolio**](https://jacobhorne.dev/) ·
 [**LinkedIn**](https://www.linkedin.com/in/jacobhornejth) ·
 [**Google Scholar**](https://scholar.google.com/citations?user=_kLSc5MAAAAJ&hl=en) ·
 [**Resume**](https://drive.google.com/file/d/1qbPancMs_XIZ7ypaaIDozruJodhWohUB/view?usp=sharing)
